@@ -30,13 +30,14 @@ class TermsConditionsSlide : SlideFragment() {
             SPInfo(activity as Context).updateIntroStatus(true)
 
             val intent = Intent(activity, QuestionsActivity::class.java)
-            intent.setFlags( Intent.FLAG_ACTIVITY_CLEAR_TOP )
+            intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP
             activity!!.startActivity( intent )
             activity!!.finish()
         }
         return cb_concordo.isChecked
     }
 
+    //@SuppressWarnings("all")
     override fun cantMoveFurtherErrorMessage(): String {
         return activity!!.resources.getString(R.string.slide_4_checkbox_error)
     }
