@@ -40,8 +40,8 @@ class QuestionsAdapter(
         var tvQuestion: TextView
 
         init {
-            ivUser = itemView.findViewById(R.id.iv_user) as CircleImageView
-            tvQuestion = itemView.findViewById(R.id.tv_question) as TextView
+            ivUser = itemView.findViewById(R.id.iv_user)
+            tvQuestion = itemView.findViewById(R.id.tv_question)
         }
 
         fun setData(question: Question) {
