@@ -1,10 +1,12 @@
 # Questions? (Kotlin Android)
 
-Projeto Kotlin Android do livro "Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia". Projeto apresentado no capítulo 4 do livro, mais precisamente o capítulo "Apresentação do App via Telas de Introdução".
+Projeto Kotlin Android do livro "Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia".
+
+Projeto apresentado no capítulo 4 do livro, mais precisamente o capítulo "Apresentação do App via Telas de Introdução".
 
 <img src="https://www.thiengo.com.br/img/livro/mapas-android-de-alta-qualidade/github/projeto-android-parte-1-livro-mapas-android-de-alta-qualidade.png" alt="Projeto Android da primeira parte do livro" width="700">
 
-**Obs. 1:** para o total entendimento do projeto é preciso ter em mãos o livro "Desenvolvedor Kotlin Android" com o capítulo 4 já aberto, pois as explicações detalhadas do projeto deste repositório estarão nesta parte do livro.
+**Obs. importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Desenvolvedor Kotlin Android" com o capítulo 4 já aberto, pois as explicações detalhadas de todo o projeto deste repositório estarão nesta parte do livro.
 
 ### AndroidX ⚠
 
@@ -14,7 +16,7 @@ Apesar disso é aconselhável que o desenvolvedor (leitor) migre o projeto para 
 
 Migre assim que o finalizado em sua própria instalação do Android Studio IDE.
 
-O processo de migração é bem simples e pode ser seguido aqui: [Migrar para o AndroidX](https://developer.android.com/jetpack/androidx/migrate?hl=pt-br).
+O processo de migração é bem simples e pode ser seguido no tutorial a seguir: [Migrar para o AndroidX](https://developer.android.com/jetpack/androidx/migrate?hl=pt-br).
 
 ## Dados livro
 
@@ -34,7 +36,7 @@ Caso você tenha dúvidas ou dicas sobre os projetos apresentados em livro, ent�
 
 ## Outros livros 📚 e curso
 
-Não deixe de conhecer também outros livros e curso do mesmo autor:
+Não deixe de conhecer também os outros livros e curso do mesmo autor:
 
 - [Refatorando Para Programas Limpos](https://www.thiengo.com.br/livro-refatorando-para-programas-limpos);
 - [Receitas Para Desenvolvedores Android](https://www.thiengo.com.br/livro-receitas-para-desenvolvedores-android);
