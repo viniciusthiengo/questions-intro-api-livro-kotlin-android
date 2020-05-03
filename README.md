@@ -4,7 +4,7 @@ Projeto Kotlin Android do livro "Desenvolvedor Kotlin Android - Bibliotecas para
 
 Projeto apresentado no **Capítulo 4** do livro, mais precisamente o capítulo "Apresentação do App via Telas de Introdução".
 
-<img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/aplicativo-capitulo-04.jpg" alt="Apresentação do App via Telas de Introdução" height="360">
+<img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/aplicativo-capitulo-04.jpg" alt="Telas do aplicativo Android do capítulo 4" height="360">
 
 **Observação importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Desenvolvedor Kotlin Android" com o capítulo 4 já aberto, pois as explicações detalhadas de todo o projeto deste repositório estarão nesta parte do livro.
 
