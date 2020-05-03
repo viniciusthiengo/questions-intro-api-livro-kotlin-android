@@ -6,7 +6,7 @@ Projeto apresentado no **Capítulo 4** do livro, mais precisamente o capítulo "
 
 <img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/aplicativo-capitulo-04.jpg" alt="Apresentação do App via Telas de Introdução" height="380">
 
-**Obs. importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Desenvolvedor Kotlin Android" com o capítulo 4 já aberto, pois as explicações detalhadas de todo o projeto deste repositório estarão nesta parte do livro.
+**Observação importante:** para o total entendimento do projeto é preciso ter em mãos o livro "Desenvolvedor Kotlin Android" com o capítulo 4 já aberto, pois as explicações detalhadas de todo o projeto deste repositório estarão nesta parte do livro.
 
 ### AndroidX ⚠
 
