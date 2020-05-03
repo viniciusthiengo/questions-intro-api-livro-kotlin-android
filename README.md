@@ -28,7 +28,7 @@ O processo de migração é bem simples e pode ser seguido no tutorial a seguir:
 
 **Página para adquirir o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
 
-<img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/capas-livro-desenvolvedor-kotlin-android.jpg" alt="Capas do livro Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia" width="195">
+<img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/capas-livro-desenvolvedor-kotlin-android.jpg" alt="Capas do livro Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia" width="390">
 
 ## Dúvidas e dicas
 
